@@ -1,4 +1,4 @@
-### Oi eu sou Alexandre Gregorio
+### Hello World, eu sou Alexandre! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
 - Estou cursando Análise e Desenvolimento de Sistemas
 - Estudando HTML, CSS e JavaScript
