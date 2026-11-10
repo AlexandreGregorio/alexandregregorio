@@ -1,7 +1,7 @@
 ### Olá, eu sou o Alexandre! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="28">
 
 💼 **Suporte e desenvolvimento** na [Auto Controller System](https://autocontrollersystem.com.br), empresa de rastreamento e videomonitoramento veicular.<br>
-🎓 Cursando **Análise e Desenvolvimento de Sistemas**.<br>
+🎓 Formado em **Análise e Desenvolvimento de Sistemas** (UniCesumar, 2024).<br>
 🚀 Construo soluções reais para o dia a dia da empresa: site institucional, chatbot de atendimento e um sistema interno de gestão.
 
 ---
@@ -24,9 +24,9 @@ Plataforma de gestão com ordens de serviço, financeiro, cobrança automática 
   <img alt="HTML" title="HTML" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;
   <img alt="CSS" title="CSS" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;
   <img alt="JavaScript" title="JavaScript" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">&nbsp;
-  <img alt="PHP" title="PHP" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">&nbsp;
-  <img alt="MySQL" title="MySQL" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">&nbsp;
-  <img alt="Git" title="Git" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img alt="React" title="React" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">&nbsp;
+  <img alt="Git" title="Git" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">&nbsp;
+  <img alt="GitHub" title="GitHub" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </p>
 
 ### 📊 Estatísticas
