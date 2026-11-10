@@ -20,21 +20,35 @@ Plataforma de gestão com ordens de serviço, financeiro, cobrança automática 
 
 ### 🛠️ Tecnologias
 
-<p>
-  <img alt="HTML" title="HTML" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;
-  <img alt="CSS" title="CSS" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;
-  <img alt="JavaScript" title="JavaScript" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">&nbsp;
-  <img alt="React" title="React" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">&nbsp;
-  <img alt="Git" title="Git" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">&nbsp;
-  <img alt="GitHub" title="GitHub" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+**Base da formação**
+
+<p align="left">
+  <img alt="HTML5" title="HTML5" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;&nbsp;
+  <img alt="CSS3" title="CSS3" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;&nbsp;
+  <img alt="JavaScript" title="JavaScript" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">&nbsp;&nbsp;
+  <img alt="React" title="React" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">&nbsp;&nbsp;
+  <img alt="Git" title="Git" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">&nbsp;&nbsp;
+  <img alt="GitHub" title="GitHub" height="36" src="https://cdn.simpleicons.org/github/ffffff">
 </p>
+
+**Aprendendo na prática** · em projetos reais da Auto Controller, desenvolvidos com apoio de IA
+
+<p align="left">
+  <img alt="PHP" title="PHP" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">&nbsp;&nbsp;
+  <img alt="MySQL" title="MySQL" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">&nbsp;&nbsp;
+  <img alt="Google Apps Script" title="Google Apps Script" height="36" src="https://cdn.simpleicons.org/googleappsscript/4285F4">&nbsp;&nbsp;
+  <img alt="PWA (Progressive Web App)" title="PWA (Progressive Web App)" height="36" src="https://cdn.simpleicons.org/pwa/5A0FC8">&nbsp;&nbsp;
+  <img alt="Claude (IA)" title="Claude (IA)" height="36" src="https://cdn.simpleicons.org/claude/D97757">
+</p>
+
+<sub>PHP · MySQL · Google Apps Script · PWA · Claude (IA)</sub>
 
 ### 📊 Estatísticas
 
-<div align="center">
-  <img height="165" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=alexandregregorio&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true">
-  <img height="165" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandregregorio&layout=compact&langs_count=6&theme=merko&hide_border=true">
-</div>
+<p align="center">
+  <img height="170" alt="Estatísticas no GitHub" src="https://raw.githubusercontent.com/AlexandreGregorio/alexandregregorio/output/stats.svg">&nbsp;
+  <img height="170" alt="Linguagens mais usadas" src="https://raw.githubusercontent.com/AlexandreGregorio/alexandregregorio/output/langs.svg">
+</p>
 
 ### 📫 Contato
 
@@ -42,4 +56,7 @@ Plataforma de gestão com ordens de serviço, financeiro, cobrança automática 
 <a href="https://www.linkedin.com/in/alexandre-gregorio-50395b22a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/leex.gregorio/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
-![Snake animation](https://github.com/alexandregregorio/alexandregregorio/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexandreGregorio/alexandregregorio/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/AlexandreGregorio/alexandregregorio/output/github-contribution-grid-snake.svg">
+</picture>
