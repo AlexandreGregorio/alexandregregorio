@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="395" height="215" viewBox="0 0 395 215">
+<defs><clipPath id="b"><rect x="25" y="55" width="345" height="10" rx="5"/></clipPath></defs>
+<rect x="0.5" y="0.5" width="394" height="214" rx="10" fill="#0d1117" stroke="#30363d"/>
+<text x="25" y="38" style="font-family:'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif;font-size:17px;font-weight:700" fill="#7B9CD2">Linguagens mais usadas</text>
+<g clip-path="url(#b)"><rect x="25.0" y="55" width="153.5" height="10" fill="#e34c26"/><rect x="178.5" y="55" width="104.9" height="10" fill="#663399"/><rect x="283.4" y="55" width="86.6" height="10" fill="#f1e05a"/></g>
+<circle cx="30" cy="91" r="5" fill="#e34c26"/><text x="41" y="95" style="font-family:'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif;font-size:13px" fill="#e6edf3">HTML <tspan fill="#8b949e">44.5%</tspan></text><circle cx="205" cy="91" r="5" fill="#663399"/><text x="216" y="95" style="font-family:'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif;font-size:13px" fill="#e6edf3">CSS <tspan fill="#8b949e">30.4%</tspan></text><circle cx="30" cy="118" r="5" fill="#f1e05a"/><text x="41" y="122" style="font-family:'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif;font-size:13px" fill="#e6edf3">JavaScript <tspan fill="#8b949e">25.1%</tspan></text>
+</svg>
